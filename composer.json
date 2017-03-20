@@ -1,0 +1,23 @@
+{
+    "name": "nowphp/barcode",
+    "description": "a PHP Barcode",
+    "type": "project",
+    "keywords": [
+        "Barcode",
+        "thinkphp",
+        "PHP"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "nowphp",
+            "email": "894583146@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+	"autoload": {
+        "files": ["Service.php"]
+	}
+}
